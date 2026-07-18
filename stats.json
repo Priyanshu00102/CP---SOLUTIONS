@@ -1,14 +1,14 @@
 {
-  "totalSolved": 18,
+  "totalSolved": 19,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-18",
-  "todayCount": 18,
+  "todayCount": 19,
   "difficultyCounts": {
     "easy": 1,
     "medium": 0,
     "hard": 0,
-    "basic": 17
+    "basic": 18
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -28,10 +28,11 @@
     "Codeforces_2246A_-_farmpiggie_and_Subset_Sum": true,
     "Codeforces_1343B_-_Balanced_Array": true,
     "Codeforces_734A_-_Anton_and_Danik": true,
-    "Codeforces_1899A_-_Game_with_Integers": true
+    "Codeforces_1899A_-_Game_with_Integers": true,
+    "Codeforces_1742A_-_Sum": true
   },
   "activityHistory": {
-    "2026-07-18": 18
+    "2026-07-18": 19
   },
   "todayProblems": [
     "Find Greatest Common Divisor of Array",
@@ -51,6 +52,7 @@
     "2246A - farmpiggie and Subset Sum",
     "1343B - Balanced Array",
     "734A - Anton and Danik",
-    "1899A - Game with Integers"
+    "1899A - Game with Integers",
+    "1742A - Sum"
   ]
 }

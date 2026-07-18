@@ -18,3 +18,4 @@
 | 16 | [1343B - Balanced Array](./Codeforces/basic/1343B%20-%20Balanced%20Array) | [Codeforces](https://codeforces.com/problemset/problem/1343/B) | basic | 18 Jul 2026 | 11:10 am |
 | 17 | [734A - Anton and Danik](./Codeforces/basic/734A%20-%20Anton%20and%20Danik) | [Codeforces](https://codeforces.com/problemset/problem/734/A) | basic | 18 Jul 2026 | 11:10 am |
 | 18 | [1899A - Game with Integers](./Codeforces/basic/1899A%20-%20Game%20with%20Integers) | [Codeforces](https://codeforces.com/problemset/problem/1899/A) | basic | 18 Jul 2026 | 11:10 am |
+| 19 | [1742A - Sum](./Codeforces/basic/1742A%20-%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/1742/A) | basic | 18 Jul 2026 | 11:10 am |
