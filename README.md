@@ -7,3 +7,4 @@
 | 5 | [69A - Young Physicist](./Codeforces/basic/69A%20-%20Young%20Physicist) | [Codeforces](https://codeforces.com/problemset/problem/69/A) | basic | 18 Jul 2026 | 11:09 am |
 | 6 | [2244A - Iskander and Drawings](./Codeforces/basic/2244A%20-%20Iskander%20and%20Drawings) | [Codeforces](https://codeforces.com/problemset/problem/2244/A) | basic | 18 Jul 2026 | 11:09 am |
 | 7 | [1551A - Polycarp and Coins](./Codeforces/basic/1551A%20-%20Polycarp%20and%20Coins) | [Codeforces](https://codeforces.com/problemset/problem/1551/A) | basic | 18 Jul 2026 | 11:10 am |
+| 8 | [2241A - Divide and Conquer](./Codeforces/basic/2241A%20-%20Divide%20and%20Conquer) | [Codeforces](https://codeforces.com/problemset/problem/2241/A) | basic | 18 Jul 2026 | 11:10 am |
