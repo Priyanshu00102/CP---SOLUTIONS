@@ -1,14 +1,14 @@
 {
-  "totalSolved": 15,
+  "totalSolved": 16,
   "currentStreak": 1,
   "maxStreak": 1,
   "lastSyncDate": "2026-07-18",
-  "todayCount": 15,
+  "todayCount": 16,
   "difficultyCounts": {
     "easy": 1,
     "medium": 0,
     "hard": 0,
-    "basic": 14
+    "basic": 15
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -25,10 +25,11 @@
     "Codeforces_490A_-_Team_Olympiad": true,
     "Codeforces_158A_-_Next_Round": true,
     "Codeforces_2246B_-_ezraft_and_Array": true,
-    "Codeforces_2246A_-_farmpiggie_and_Subset_Sum": true
+    "Codeforces_2246A_-_farmpiggie_and_Subset_Sum": true,
+    "Codeforces_1343B_-_Balanced_Array": true
   },
   "activityHistory": {
-    "2026-07-18": 15
+    "2026-07-18": 16
   },
   "todayProblems": [
     "Find Greatest Common Divisor of Array",
@@ -45,6 +46,7 @@
     "490A - Team Olympiad",
     "158A - Next Round",
     "2246B - ezraft and Array",
-    "2246A - farmpiggie and Subset Sum"
+    "2246A - farmpiggie and Subset Sum",
+    "1343B - Balanced Array"
   ]
 }
