@@ -20,3 +20,4 @@
 | 18 | [1899A - Game with Integers](./Codeforces/basic/1899A%20-%20Game%20with%20Integers) | [Codeforces](https://codeforces.com/problemset/problem/1899/A) | basic | 18 Jul 2026 | 11:10 am |
 | 19 | [1742A - Sum](./Codeforces/basic/1742A%20-%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/1742/A) | basic | 18 Jul 2026 | 11:10 am |
 | 20 | [271A - Beautiful Year](./Codeforces/basic/271A%20-%20Beautiful%20Year) | [Codeforces](https://codeforces.com/problemset/problem/271/A) | basic | 18 Jul 2026 | 11:10 am |
+| 21 | [236A - Boy or Girl](./Codeforces/basic/236A%20-%20Boy%20or%20Girl) | [Codeforces](https://codeforces.com/problemset/problem/236/A) | basic | 18 Jul 2026 | 11:11 am |
