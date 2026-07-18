@@ -14,3 +14,4 @@
 | 12 | [490A - Team Olympiad](./Codeforces/basic/490A%20-%20Team%20Olympiad) | [Codeforces](https://codeforces.com/problemset/problem/490/A) | basic | 18 Jul 2026 | 11:10 am |
 | 13 | [158A - Next Round](./Codeforces/basic/158A%20-%20Next%20Round) | [Codeforces](https://codeforces.com/problemset/problem/158/A) | basic | 18 Jul 2026 | 11:10 am |
 | 14 | [2246B - ezraft and Array](./Codeforces/basic/2246B%20-%20ezraft%20and%20Array) | [Codeforces](https://codeforces.com/problemset/problem/2246/B) | basic | 18 Jul 2026 | 11:10 am |
+| 15 | [2246A - farmpiggie and Subset Sum](./Codeforces/basic/2246A%20-%20farmpiggie%20and%20Subset%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/2246/A) | basic | 18 Jul 2026 | 11:10 am |
