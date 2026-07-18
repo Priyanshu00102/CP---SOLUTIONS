@@ -9,3 +9,4 @@
 | 7 | [1551A - Polycarp and Coins](./Codeforces/basic/1551A%20-%20Polycarp%20and%20Coins) | [Codeforces](https://codeforces.com/problemset/problem/1551/A) | basic | 18 Jul 2026 | 11:10 am |
 | 8 | [2241A - Divide and Conquer](./Codeforces/basic/2241A%20-%20Divide%20and%20Conquer) | [Codeforces](https://codeforces.com/problemset/problem/2241/A) | basic | 18 Jul 2026 | 11:10 am |
 | 9 | [443A - Anton and Letters](./Codeforces/basic/443A%20-%20Anton%20and%20Letters) | [Codeforces](https://codeforces.com/problemset/problem/443/A) | basic | 18 Jul 2026 | 11:10 am |
+| 10 | [2242A - Bigrams](./Codeforces/basic/2242A%20-%20Bigrams) | [Codeforces](https://codeforces.com/problemset/problem/2242/A) | basic | 18 Jul 2026 | 11:10 am |
