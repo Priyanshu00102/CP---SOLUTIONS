@@ -11,3 +11,4 @@
 | 9 | [443A - Anton and Letters](./Codeforces/basic/443A%20-%20Anton%20and%20Letters) | [Codeforces](https://codeforces.com/problemset/problem/443/A) | basic | 18 Jul 2026 | 11:10 am |
 | 10 | [2242A - Bigrams](./Codeforces/basic/2242A%20-%20Bigrams) | [Codeforces](https://codeforces.com/problemset/problem/2242/A) | basic | 18 Jul 2026 | 11:10 am |
 | 11 | [2136A - In the Dream](./Codeforces/basic/2136A%20-%20In%20the%20Dream) | [Codeforces](https://codeforces.com/problemset/problem/2136/A) | basic | 18 Jul 2026 | 11:10 am |
+| 12 | [490A - Team Olympiad](./Codeforces/basic/490A%20-%20Team%20Olympiad) | [Codeforces](https://codeforces.com/problemset/problem/490/A) | basic | 18 Jul 2026 | 11:10 am |
