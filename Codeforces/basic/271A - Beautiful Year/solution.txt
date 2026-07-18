@@ -1,0 +1,32 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+
+void solve() {
+    int n; cin>>n;
+    while(true){
+        n++;
+        string s; s=to_string(n);
+        set<char>c;
+        for(auto it:s){
+            c.insert(it);
+        }
+        if(c.size()==4){
+            cout<<n;
+            return;
+        }
+    }
+   
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t = 1;
+    // cin >> t;
+    while (t--) solve();
+
+    return 0;
+}
