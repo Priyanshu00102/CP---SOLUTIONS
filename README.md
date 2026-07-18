@@ -10,3 +10,4 @@
 | 8 | [2241A - Divide and Conquer](./Codeforces/basic/2241A%20-%20Divide%20and%20Conquer) | [Codeforces](https://codeforces.com/problemset/problem/2241/A) | basic | 18 Jul 2026 | 11:10 am |
 | 9 | [443A - Anton and Letters](./Codeforces/basic/443A%20-%20Anton%20and%20Letters) | [Codeforces](https://codeforces.com/problemset/problem/443/A) | basic | 18 Jul 2026 | 11:10 am |
 | 10 | [2242A - Bigrams](./Codeforces/basic/2242A%20-%20Bigrams) | [Codeforces](https://codeforces.com/problemset/problem/2242/A) | basic | 18 Jul 2026 | 11:10 am |
+| 11 | [2136A - In the Dream](./Codeforces/basic/2136A%20-%20In%20the%20Dream) | [Codeforces](https://codeforces.com/problemset/problem/2136/A) | basic | 18 Jul 2026 | 11:10 am |
