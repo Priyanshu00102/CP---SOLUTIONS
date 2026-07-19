@@ -27,3 +27,4 @@
 | 25 | [1520A - Do Not Be Distracted](./Codeforces/basic/1520A%20-%20Do%20Not%20Be%20Distracted) | [Codeforces](https://codeforces.com/problemset/problem/1520/A) | basic | 19 Jul 2026 | 05:33 pm |
 | 26 | [1557A - Ezzat and Two Subsequences](./Codeforces/basic/1557A%20-%20Ezzat%20and%20Two%20Subsequences) | [Codeforces](https://codeforces.com/problemset/problem/1557/A) | basic | 19 Jul 2026 | 05:55 pm |
 | 27 | [1550A - Find The Array](./Codeforces/basic/1550A%20-%20Find%20The%20Array) | [Codeforces](https://codeforces.com/problemset/problem/1550/A) | basic | 19 Jul 2026 | 06:30 pm |
+| 28 | [1549A - Gregor and Cryptography](./Codeforces/basic/1549A%20-%20Gregor%20and%20Cryptography) | [Codeforces](https://codeforces.com/problemset/problem/1549/A) | basic | 19 Jul 2026 | 09:08 pm |
