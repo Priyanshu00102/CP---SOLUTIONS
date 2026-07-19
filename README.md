@@ -22,3 +22,4 @@
 | 20 | [271A - Beautiful Year](./Codeforces/basic/271A%20-%20Beautiful%20Year) | [Codeforces](https://codeforces.com/problemset/problem/271/A) | basic | 18 Jul 2026 | 11:10 am |
 | 21 | [236A - Boy or Girl](./Codeforces/basic/236A%20-%20Boy%20or%20Girl) | [Codeforces](https://codeforces.com/problemset/problem/236/A) | basic | 18 Jul 2026 | 11:11 am |
 | 22 | [1542A - Odd Set](./Codeforces/basic/1542A%20-%20Odd%20Set) | [Codeforces](https://codeforces.com/problemset/problem/1542/A) | basic | 18 Jul 2026 | 11:36 am |
+| 23 | [1537A - Arithmetic Array](./Codeforces/basic/1537A%20-%20Arithmetic%20Array) | [Codeforces](https://codeforces.com/problemset/problem/1537/A) | basic | 19 Jul 2026 | 02:40 pm |
