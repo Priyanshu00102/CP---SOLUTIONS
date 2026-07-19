@@ -25,3 +25,4 @@
 | 23 | [1537A - Arithmetic Array](./Codeforces/basic/1537A%20-%20Arithmetic%20Array) | [Codeforces](https://codeforces.com/problemset/problem/1537/A) | basic | 19 Jul 2026 | 02:40 pm |
 | 24 | [1535A - Fair Playoff](./Codeforces/basic/1535A%20-%20Fair%20Playoff) | [Codeforces](https://codeforces.com/problemset/problem/1535/A) | basic | 19 Jul 2026 | 03:25 pm |
 | 25 | [1520A - Do Not Be Distracted](./Codeforces/basic/1520A%20-%20Do%20Not%20Be%20Distracted) | [Codeforces](https://codeforces.com/problemset/problem/1520/A) | basic | 19 Jul 2026 | 05:33 pm |
+| 26 | [1557A - Ezzat and Two Subsequences](./Codeforces/basic/1557A%20-%20Ezzat%20and%20Two%20Subsequences) | [Codeforces](https://codeforces.com/problemset/problem/1557/A) | basic | 19 Jul 2026 | 05:55 pm |

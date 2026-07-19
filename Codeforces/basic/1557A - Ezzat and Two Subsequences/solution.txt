@@ -1,0 +1,27 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+
+void solve() {
+    int n; cin>>n;
+    double maxi=INT_MIN; double sum=0;
+    for(int i=0; i<n; i++){
+        double x; cin>>x;
+        maxi=max(maxi,x);
+        sum+=x;
+    }
+    double ans=maxi+(sum-maxi)/(n-1);
+    cout<<fixed<<setprecision(9)<<ans<<'\n';
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t = 1;
+    cin >> t;
+    while (t--) solve();
+
+    return 0;
+}
