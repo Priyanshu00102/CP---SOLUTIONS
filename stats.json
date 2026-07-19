@@ -1,14 +1,14 @@
 {
-  "totalSolved": 23,
+  "totalSolved": 24,
   "currentStreak": 2,
   "maxStreak": 2,
   "lastSyncDate": "2026-07-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 1,
     "medium": 0,
     "hard": 0,
-    "basic": 22
+    "basic": 23
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -33,13 +33,15 @@
     "Codeforces_271A_-_Beautiful_Year": true,
     "Codeforces_236A_-_Boy_or_Girl": true,
     "Codeforces_1542A_-_Odd_Set": true,
-    "Codeforces_1537A_-_Arithmetic_Array": true
+    "Codeforces_1537A_-_Arithmetic_Array": true,
+    "Codeforces_1535A_-_Fair_Playoff": true
   },
   "activityHistory": {
     "2026-07-18": 22,
-    "2026-07-19": 1
+    "2026-07-19": 2
   },
   "todayProblems": [
-    "1537A - Arithmetic Array"
+    "1537A - Arithmetic Array",
+    "1535A - Fair Playoff"
   ]
 }
