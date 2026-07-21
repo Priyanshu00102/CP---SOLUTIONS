@@ -30,3 +30,4 @@
 | 28 | [1549A - Gregor and Cryptography](./Codeforces/basic/1549A%20-%20Gregor%20and%20Cryptography) | [Codeforces](https://codeforces.com/problemset/problem/1549/A) | basic | 19 Jul 2026 | 09:08 pm |
 | 29 | [1520B - Ordinary Numbers](./Codeforces/basic/1520B%20-%20Ordinary%20Numbers) | [Codeforces](https://codeforces.com/problemset/problem/1520/B) | basic | 20 Jul 2026 | 09:16 pm |
 | 30 | [1541A - Pretty Permutations](./Codeforces/basic/1541A%20-%20Pretty%20Permutations) | [Codeforces](https://codeforces.com/problemset/problem/1541/A) | basic | 21 Jul 2026 | 03:58 pm |
+| 31 | [1553A - Digits Sum](./Codeforces/basic/1553A%20-%20Digits%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/1553/A) | basic | 21 Jul 2026 | 04:13 pm |
