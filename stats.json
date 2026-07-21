@@ -1,14 +1,14 @@
 {
-  "totalSolved": 31,
+  "totalSolved": 32,
   "currentStreak": 4,
   "maxStreak": 4,
   "lastSyncDate": "2026-07-21",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 1,
     "medium": 0,
     "hard": 0,
-    "basic": 30
+    "basic": 31
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -41,16 +41,18 @@
     "Codeforces_1549A_-_Gregor_and_Cryptography": true,
     "Codeforces_1520B_-_Ordinary_Numbers": true,
     "Codeforces_1541A_-_Pretty_Permutations": true,
-    "Codeforces_1553A_-_Digits_Sum": true
+    "Codeforces_1553A_-_Digits_Sum": true,
+    "Codeforces_1538B_-_Friends_and_Candies": true
   },
   "activityHistory": {
     "2026-07-18": 22,
     "2026-07-19": 6,
     "2026-07-20": 1,
-    "2026-07-21": 2
+    "2026-07-21": 3
   },
   "todayProblems": [
     "1541A - Pretty Permutations",
-    "1553A - Digits Sum"
+    "1553A - Digits Sum",
+    "1538B - Friends and Candies"
   ]
 }
