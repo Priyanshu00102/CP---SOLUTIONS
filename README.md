@@ -33,3 +33,4 @@
 | 31 | [1553A - Digits Sum](./Codeforces/basic/1553A%20-%20Digits%20Sum) | [Codeforces](https://codeforces.com/problemset/problem/1553/A) | basic | 21 Jul 2026 | 04:13 pm |
 | 32 | [1538B - Friends and Candies](./Codeforces/basic/1538B%20-%20Friends%20and%20Candies) | [Codeforces](https://codeforces.com/problemset/problem/1538/B) | basic | 21 Jul 2026 | 06:34 pm |
 | 33 | [1529A - Eshag Loves Big Arrays](./Codeforces/basic/1529A%20-%20Eshag%20Loves%20Big%20Arrays) | [Codeforces](https://codeforces.com/problemset/problem/1529/A) | basic | 21 Jul 2026 | 11:40 pm |
+| 34 | [1551B1 - Wonderful Coloring - 1](./Codeforces/basic/1551B1%20-%20Wonderful%20Coloring%20-%201) | [Codeforces](https://codeforces.com/problemset/problem/1551/B1) | basic | 21 Jul 2026 | 11:58 pm |
