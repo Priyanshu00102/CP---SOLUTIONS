@@ -41,3 +41,4 @@
 | 39 | [1626A - Equidistant Letters](./Codeforces/basic/1626A%20-%20Equidistant%20Letters) | [Codeforces](https://codeforces.com/problemset/problem/1626/A) | basic | 22 Jul 2026 | 06:13 pm |
 | 40 | [1472B - Fair Division](./Codeforces/basic/1472B%20-%20Fair%20Division) | [Codeforces](https://codeforces.com/problemset/problem/1472/B) | basic | 22 Jul 2026 | 06:48 pm |
 | 41 | [2157A - Dungeon Equilibrium](./Codeforces/basic/2157A%20-%20Dungeon%20Equilibrium) | [Codeforces](https://codeforces.com/problemset/problem/2157/A) | basic | 22 Jul 2026 | 06:48 pm |
+| 42 | [1853A - Desorting](./Codeforces/basic/1853A%20-%20Desorting) | [Codeforces](https://codeforces.com/problemset/problem/1853/A) | basic | 22 Jul 2026 | 06:48 pm |
