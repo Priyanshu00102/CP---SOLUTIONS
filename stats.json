@@ -1,14 +1,14 @@
 {
-  "totalSolved": 42,
+  "totalSolved": 43,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-07-22",
-  "todayCount": 8,
+  "todayCount": 9,
   "difficultyCounts": {
     "easy": 1,
     "medium": 0,
     "hard": 0,
-    "basic": 41
+    "basic": 42
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -52,14 +52,15 @@
     "Codeforces_1626A_-_Equidistant_Letters": true,
     "Codeforces_1472B_-_Fair_Division": true,
     "Codeforces_2157A_-_Dungeon_Equilibrium": true,
-    "Codeforces_1853A_-_Desorting": true
+    "Codeforces_1853A_-_Desorting": true,
+    "Codeforces_1914C_-_Quests": true
   },
   "activityHistory": {
     "2026-07-18": 22,
     "2026-07-19": 6,
     "2026-07-20": 1,
     "2026-07-21": 5,
-    "2026-07-22": 8
+    "2026-07-22": 9
   },
   "todayProblems": [
     "1512A - Spy Detected",
@@ -69,6 +70,7 @@
     "1626A - Equidistant Letters",
     "1472B - Fair Division",
     "2157A - Dungeon Equilibrium",
-    "1853A - Desorting"
+    "1853A - Desorting",
+    "1914C - Quests"
   ]
 }
