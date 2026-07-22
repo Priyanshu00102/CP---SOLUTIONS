@@ -36,3 +36,4 @@
 | 34 | [1551B1 - Wonderful Coloring - 1](./Codeforces/basic/1551B1%20-%20Wonderful%20Coloring%20-%201) | [Codeforces](https://codeforces.com/problemset/problem/1551/B1) | basic | 21 Jul 2026 | 11:58 pm |
 | 35 | [1512A - Spy Detected](./Codeforces/basic/1512A%20-%20Spy%20Detected) | [Codeforces](https://codeforces.com/problemset/problem/1512/A) | basic | 22 Jul 2026 | 12:32 am |
 | 36 | [1560B - Whos Opposite](./Codeforces/basic/1560B%20-%20Whos%20Opposite) | [Codeforces](https://codeforces.com/problemset/problem/1560/B) | basic | 22 Jul 2026 | 11:40 am |
+| 37 | [1552A - Subsequence Permutation](./Codeforces/basic/1552A%20-%20Subsequence%20Permutation) | [Codeforces](https://codeforces.com/problemset/problem/1552/A) | basic | 22 Jul 2026 | 12:41 pm |

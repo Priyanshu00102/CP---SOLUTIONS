@@ -1,14 +1,14 @@
 {
-  "totalSolved": 36,
+  "totalSolved": 37,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-07-22",
-  "todayCount": 2,
+  "todayCount": 3,
   "difficultyCounts": {
     "easy": 1,
     "medium": 0,
     "hard": 0,
-    "basic": 35
+    "basic": 36
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -46,17 +46,19 @@
     "Codeforces_1529A_-_Eshag_Loves_Big_Arrays": true,
     "Codeforces_1551B1_-_Wonderful_Coloring_-_1": true,
     "Codeforces_1512A_-_Spy_Detected": true,
-    "Codeforces_1560B_-_Whos_Opposite": true
+    "Codeforces_1560B_-_Whos_Opposite": true,
+    "Codeforces_1552A_-_Subsequence_Permutation": true
   },
   "activityHistory": {
     "2026-07-18": 22,
     "2026-07-19": 6,
     "2026-07-20": 1,
     "2026-07-21": 5,
-    "2026-07-22": 2
+    "2026-07-22": 3
   },
   "todayProblems": [
     "1512A - Spy Detected",
-    "1560B - Whos Opposite"
+    "1560B - Whos Opposite",
+    "1552A - Subsequence Permutation"
   ]
 }
