@@ -43,3 +43,4 @@
 | 41 | [2157A - Dungeon Equilibrium](./Codeforces/basic/2157A%20-%20Dungeon%20Equilibrium) | [Codeforces](https://codeforces.com/problemset/problem/2157/A) | basic | 22 Jul 2026 | 06:48 pm |
 | 42 | [1853A - Desorting](./Codeforces/basic/1853A%20-%20Desorting) | [Codeforces](https://codeforces.com/problemset/problem/1853/A) | basic | 22 Jul 2026 | 06:48 pm |
 | 43 | [1914C - Quests](./Codeforces/basic/1914C%20-%20Quests) | [Codeforces](https://codeforces.com/problemset/problem/1914/C) | basic | 22 Jul 2026 | 06:48 pm |
+| 44 | [2157E - Adjusting Drones](./Codeforces/basic/2157E%20-%20Adjusting%20Drones) | [Codeforces](https://codeforces.com/problemset/problem/2157/E) | basic | 22 Jul 2026 | 06:48 pm |
