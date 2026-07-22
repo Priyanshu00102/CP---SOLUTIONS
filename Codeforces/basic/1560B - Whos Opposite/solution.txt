@@ -1,0 +1,28 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+
+void solve() {
+    int a,b,c; cin>>a >>b >>c;
+    int half=abs(a-b), full=2*half;
+    if (a > full || b > full || c > full)
+    cout << -1 << '\n';
+    else if(c<=full) {
+        int ans=c+half;
+        if(ans>full) cout<<abs(ans-full)<<'\n';
+        else cout<<ans<<'\n';
+    }
+    else cout<<-1<<'\n';
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t = 1;
+    cin >> t;
+    while (t--) solve();
+
+    return 0;
+}
