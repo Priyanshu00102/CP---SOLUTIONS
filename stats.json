@@ -1,14 +1,14 @@
 {
-  "totalSolved": 38,
+  "totalSolved": 39,
   "currentStreak": 5,
   "maxStreak": 5,
   "lastSyncDate": "2026-07-22",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 1,
     "medium": 0,
     "hard": 0,
-    "basic": 37
+    "basic": 38
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -48,19 +48,21 @@
     "Codeforces_1512A_-_Spy_Detected": true,
     "Codeforces_1560B_-_Whos_Opposite": true,
     "Codeforces_1552A_-_Subsequence_Permutation": true,
-    "Codeforces_1624A_-_Plus_One_on_the_Subset": true
+    "Codeforces_1624A_-_Plus_One_on_the_Subset": true,
+    "Codeforces_1626A_-_Equidistant_Letters": true
   },
   "activityHistory": {
     "2026-07-18": 22,
     "2026-07-19": 6,
     "2026-07-20": 1,
     "2026-07-21": 5,
-    "2026-07-22": 4
+    "2026-07-22": 5
   },
   "todayProblems": [
     "1512A - Spy Detected",
     "1560B - Whos Opposite",
     "1552A - Subsequence Permutation",
-    "1624A - Plus One on the Subset"
+    "1624A - Plus One on the Subset",
+    "1626A - Equidistant Letters"
   ]
 }

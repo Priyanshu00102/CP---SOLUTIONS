@@ -38,3 +38,4 @@
 | 36 | [1560B - Whos Opposite](./Codeforces/basic/1560B%20-%20Whos%20Opposite) | [Codeforces](https://codeforces.com/problemset/problem/1560/B) | basic | 22 Jul 2026 | 11:40 am |
 | 37 | [1552A - Subsequence Permutation](./Codeforces/basic/1552A%20-%20Subsequence%20Permutation) | [Codeforces](https://codeforces.com/problemset/problem/1552/A) | basic | 22 Jul 2026 | 12:41 pm |
 | 38 | [1624A - Plus One on the Subset](./Codeforces/basic/1624A%20-%20Plus%20One%20on%20the%20Subset) | [Codeforces](https://codeforces.com/problemset/problem/1624/A) | basic | 22 Jul 2026 | 12:41 pm |
+| 39 | [1626A - Equidistant Letters](./Codeforces/basic/1626A%20-%20Equidistant%20Letters) | [Codeforces](https://codeforces.com/problemset/problem/1626/A) | basic | 22 Jul 2026 | 06:13 pm |
