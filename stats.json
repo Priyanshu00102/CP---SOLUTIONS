@@ -1,11 +1,11 @@
 {
-  "totalSolved": 45,
-  "currentStreak": 5,
+  "totalSolved": 46,
+  "currentStreak": 1,
   "maxStreak": 5,
-  "lastSyncDate": "2026-07-22",
-  "todayCount": 11,
+  "lastSyncDate": "2026-07-26",
+  "todayCount": 1,
   "difficultyCounts": {
-    "easy": 1,
+    "easy": 2,
     "medium": 0,
     "hard": 0,
     "basic": 44
@@ -55,26 +55,18 @@
     "Codeforces_1853A_-_Desorting": true,
     "Codeforces_1914C_-_Quests": true,
     "Codeforces_2157E_-_Adjusting_Drones": true,
-    "Codeforces_2101B_-_Quartet_Swapping": true
+    "Codeforces_2101B_-_Quartet_Swapping": true,
+    "LeetCode_Maximum_Product_of_Three_Numbers": true
   },
   "activityHistory": {
     "2026-07-18": 22,
     "2026-07-19": 6,
     "2026-07-20": 1,
     "2026-07-21": 5,
-    "2026-07-22": 11
+    "2026-07-22": 11,
+    "2026-07-26": 1
   },
   "todayProblems": [
-    "1512A - Spy Detected",
-    "1560B - Whos Opposite",
-    "1552A - Subsequence Permutation",
-    "1624A - Plus One on the Subset",
-    "1626A - Equidistant Letters",
-    "1472B - Fair Division",
-    "2157A - Dungeon Equilibrium",
-    "1853A - Desorting",
-    "1914C - Quests",
-    "2157E - Adjusting Drones",
-    "2101B - Quartet Swapping"
+    "Maximum Product of Three Numbers"
   ]
 }
