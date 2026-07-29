@@ -47,3 +47,4 @@
 | 45 | [2101B - Quartet Swapping](./Codeforces/basic/2101B%20-%20Quartet%20Swapping) | [Codeforces](https://codeforces.com/problemset/problem/2101/B) | basic | 22 Jul 2026 | 06:48 pm |
 | 46 | [Maximum Product of Three Numbers](./LeetCode/Easy/Maximum%20Product%20of%20Three%20Numbers) | [LeetCode](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | 26 Jul 2026 | 07:26 pm |
 | 47 | [2250A - Threshold Movement](./Codeforces/basic/2250A%20-%20Threshold%20Movement) | [Codeforces](https://codeforces.com/problemset/problem/2250/A) | basic | 30 Jul 2026 | 05:04 am |
+| 48 | [1622A - Construct a Rectangle](./Codeforces/basic/1622A%20-%20Construct%20a%20Rectangle) | [Codeforces](https://codeforces.com/problemset/problem/1622/A) | basic | 30 Jul 2026 | 05:04 am |

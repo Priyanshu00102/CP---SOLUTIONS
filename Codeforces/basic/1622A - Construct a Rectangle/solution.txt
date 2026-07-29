@@ -1,0 +1,35 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+
+void solve() {
+    int l1,l2,l3; cin>>l1 >>l2 >>l3;
+    int maxi=max({l1,l2,l3});
+    int mini=min({l1,l2,l3});
+    if(maxi==l1+l2 || maxi==l2+l3 ||maxi==l3+l1){
+        cout<<"YES\n";
+    } else if(l1==l2 && l3%2==0){
+        cout<<"YES\n";
+    }
+    else if(l2==l3 && l1%2==0){
+        cout<<"YES\n";
+    }
+    else if(l3==l1 && l2%2==0){
+        cout<<"YES\n";
+    }
+    else {
+        cout<<"NO\n";
+    }
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t = 1;
+    cin >> t;
+    while (t--) solve();
+
+    return 0;
+}

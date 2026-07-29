@@ -57,7 +57,7 @@
     "Codeforces_2157E_-_Adjusting_Drones": true,
     "Codeforces_2101B_-_Quartet_Swapping": true,
     "LeetCode_Maximum_Product_of_Three_Numbers": true,
-    "Codeforces_2250A_-_Threshold_Movement": true
+    "Codeforces_1622A_-_Construct_a_Rectangle": true
   },
   "activityHistory": {
     "2026-07-18": 22,
@@ -69,6 +69,6 @@
     "2026-07-30": 1
   },
   "todayProblems": [
-    "2250A - Threshold Movement"
+    "1622A - Construct a Rectangle"
   ]
 }
