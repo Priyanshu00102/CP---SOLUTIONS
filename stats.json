@@ -1,14 +1,14 @@
 {
-  "totalSolved": 46,
+  "totalSolved": 47,
   "currentStreak": 1,
   "maxStreak": 5,
-  "lastSyncDate": "2026-07-26",
+  "lastSyncDate": "2026-07-30",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
     "medium": 0,
     "hard": 0,
-    "basic": 44
+    "basic": 45
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -56,7 +56,8 @@
     "Codeforces_1914C_-_Quests": true,
     "Codeforces_2157E_-_Adjusting_Drones": true,
     "Codeforces_2101B_-_Quartet_Swapping": true,
-    "LeetCode_Maximum_Product_of_Three_Numbers": true
+    "LeetCode_Maximum_Product_of_Three_Numbers": true,
+    "Codeforces_2250A_-_Threshold_Movement": true
   },
   "activityHistory": {
     "2026-07-18": 22,
@@ -64,9 +65,10 @@
     "2026-07-20": 1,
     "2026-07-21": 5,
     "2026-07-22": 11,
-    "2026-07-26": 1
+    "2026-07-26": 1,
+    "2026-07-30": 1
   },
   "todayProblems": [
-    "Maximum Product of Three Numbers"
+    "2250A - Threshold Movement"
   ]
 }
