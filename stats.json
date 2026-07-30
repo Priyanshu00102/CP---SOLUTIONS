@@ -1,14 +1,14 @@
 {
-  "totalSolved": 47,
+  "totalSolved": 48,
   "currentStreak": 1,
   "maxStreak": 5,
   "lastSyncDate": "2026-07-30",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 2,
     "medium": 0,
     "hard": 0,
-    "basic": 45
+    "basic": 46
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -57,7 +57,8 @@
     "Codeforces_2157E_-_Adjusting_Drones": true,
     "Codeforces_2101B_-_Quartet_Swapping": true,
     "LeetCode_Maximum_Product_of_Three_Numbers": true,
-    "Codeforces_1622A_-_Construct_a_Rectangle": true
+    "Codeforces_1622A_-_Construct_a_Rectangle": true,
+    "Codeforces_2238A_-_Another_Puzzle_from_Papyrus": true
   },
   "activityHistory": {
     "2026-07-18": 22,
@@ -66,9 +67,10 @@
     "2026-07-21": 5,
     "2026-07-22": 11,
     "2026-07-26": 1,
-    "2026-07-30": 1
+    "2026-07-30": 2
   },
   "todayProblems": [
-    "1622A - Construct a Rectangle"
+    "1622A - Construct a Rectangle",
+    "2238A - Another Puzzle from Papyrus"
   ]
 }

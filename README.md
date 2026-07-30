@@ -48,3 +48,4 @@
 | 46 | [Maximum Product of Three Numbers](./LeetCode/Easy/Maximum%20Product%20of%20Three%20Numbers) | [LeetCode](https://leetcode.com/problems/maximum-product-of-three-numbers/) | Easy | 26 Jul 2026 | 07:26 pm |
 | 47 | [2250A - Threshold Movement](./Codeforces/basic/2250A%20-%20Threshold%20Movement) | [Codeforces](https://codeforces.com/problemset/problem/2250/A) | basic | 30 Jul 2026 | 05:04 am |
 | 48 | [1622A - Construct a Rectangle](./Codeforces/basic/1622A%20-%20Construct%20a%20Rectangle) | [Codeforces](https://codeforces.com/problemset/problem/1622/A) | basic | 30 Jul 2026 | 05:04 am |
+| 49 | [2238A - Another Puzzle from Papyrus](./Codeforces/basic/2238A%20-%20Another%20Puzzle%20from%20Papyrus) | [Codeforces](https://codeforces.com/problemset/problem/2238/A) | basic | 30 Jul 2026 | 06:25 am |

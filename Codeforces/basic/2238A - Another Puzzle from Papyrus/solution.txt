@@ -1,0 +1,42 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+
+void solve() {
+    int n, cost; cin>>n >>cost;
+    vector<int>a(n),b(n);
+    for(int &i:a) cin>>i;
+    for(int &i:b) cin>>i;
+    int cnt=0;
+    bool flag=false;
+    for(int i=0; i<n; ++i){
+        if(a[i]<b[i]){
+            flag=true;
+        }
+        cnt+=a[i];
+        cnt-=b[i];
+    }
+    if(flag){
+        flag=false;
+        cnt+=cost;
+        sort(a.begin(),a.end());
+        sort(b.begin(),b.end());
+        for(int i=0; i<n; ++i){
+            if(a[i]<b[i]) flag=true;
+        }
+    }
+    if(flag) cout<<-1<<'\n';
+    else cout<<cnt<<'\n';
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t = 1;
+    cin >> t;
+    while (t--) solve();
+
+    return 0;
+}
