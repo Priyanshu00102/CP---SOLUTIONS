@@ -54,3 +54,4 @@
 | 52 | [2234B - Palindrome Twelve and Two Terms](./Codeforces/basic/2234B%20-%20Palindrome%20Twelve%20and%20Two%20Terms) | [Codeforces](https://codeforces.com/problemset/problem/2234/B) | basic | 30 Jul 2026 | 07:42 pm |
 | 53 | [2234A - Euclid Sequence and Two Numbers](./Codeforces/basic/2234A%20-%20Euclid%20Sequence%20and%20Two%20Numbers) | [Codeforces](https://codeforces.com/problemset/problem/2234/A) | basic | 01 Aug 2026 | 06:18 am |
 | 54 | [2233A - AI Project Development](./Codeforces/basic/2233A%20-%20AI%20Project%20Development) | [Codeforces](https://codeforces.com/problemset/problem/2233/A) | basic | 01 Aug 2026 | 06:18 am |
+| 55 | [2232A - Convergence](./Codeforces/basic/2232A%20-%20Convergence) | [Codeforces](https://codeforces.com/problemset/problem/2232/A) | basic | 01 Aug 2026 | 07:06 am |
