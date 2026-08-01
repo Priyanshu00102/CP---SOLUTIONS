@@ -1,14 +1,14 @@
 {
-  "totalSolved": 55,
+  "totalSolved": 56,
   "currentStreak": 1,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-01",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 2,
     "medium": 0,
     "hard": 0,
-    "basic": 53
+    "basic": 54
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -65,7 +65,8 @@
     "Codeforces_2234A_-_Euclid_Sequence_and_Two_Numbers": true,
     "Codeforces_2233A_-_AI_Project_Development": true,
     "Codeforces_2232A_-_Convergence": true,
-    "Codeforces_2231A_-_Construct_an_Array": true
+    "Codeforces_2231A_-_Construct_an_Array": true,
+    "Codeforces_2230A_-_Optimal_Purchase": true
   },
   "activityHistory": {
     "2026-07-18": 22,
@@ -75,12 +76,13 @@
     "2026-07-22": 11,
     "2026-07-26": 1,
     "2026-07-30": 5,
-    "2026-08-01": 4
+    "2026-08-01": 5
   },
   "todayProblems": [
     "2234A - Euclid Sequence and Two Numbers",
     "2233A - AI Project Development",
     "2232A - Convergence",
-    "2231A - Construct an Array"
+    "2231A - Construct an Array",
+    "2230A - Optimal Purchase"
   ]
 }

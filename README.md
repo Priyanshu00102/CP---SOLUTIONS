@@ -56,3 +56,4 @@
 | 54 | [2233A - AI Project Development](./Codeforces/basic/2233A%20-%20AI%20Project%20Development) | [Codeforces](https://codeforces.com/problemset/problem/2233/A) | basic | 01 Aug 2026 | 06:18 am |
 | 55 | [2232A - Convergence](./Codeforces/basic/2232A%20-%20Convergence) | [Codeforces](https://codeforces.com/problemset/problem/2232/A) | basic | 01 Aug 2026 | 07:06 am |
 | 56 | [2231A - Construct an Array](./Codeforces/basic/2231A%20-%20Construct%20an%20Array) | [Codeforces](https://codeforces.com/problemset/problem/2231/A) | basic | 01 Aug 2026 | 07:20 am |
+| 57 | [2230A - Optimal Purchase](./Codeforces/basic/2230A%20-%20Optimal%20Purchase) | [Codeforces](https://codeforces.com/problemset/problem/2230/A) | basic | 01 Aug 2026 | 07:50 am |

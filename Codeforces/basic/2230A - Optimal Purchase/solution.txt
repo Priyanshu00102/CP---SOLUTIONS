@@ -1,0 +1,26 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+
+void solve() {
+    ll st, ind_cost, gr_cost;
+    cin>>st >>ind_cost >>gr_cost;
+    ll cost1=st*ind_cost;
+    ll cost2=0;
+    ll g=st/3; ll ind=st%3;
+    cost2+=g*gr_cost+ind*ind_cost;
+    ll cost3 = ((st + 2) / 3) * gr_cost;
+    cout<<min({cost1,cost2,cost3})<<'\n';
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t = 1;
+    cin >> t;
+    while (t--) solve();
+
+    return 0;
+}
