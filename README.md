@@ -58,3 +58,4 @@
 | 56 | [2231A - Construct an Array](./Codeforces/basic/2231A%20-%20Construct%20an%20Array) | [Codeforces](https://codeforces.com/problemset/problem/2231/A) | basic | 01 Aug 2026 | 07:20 am |
 | 57 | [2230A - Optimal Purchase](./Codeforces/basic/2230A%20-%20Optimal%20Purchase) | [Codeforces](https://codeforces.com/problemset/problem/2230/A) | basic | 01 Aug 2026 | 07:50 am |
 | 58 | [A - Three Numbers on the Blackboard](./Codeforces/basic/A%20-%20Three%20Numbers%20on%20the%20Blackboard) | [Codeforces](https://codeforces.com/contest/2256/problem/A) | basic | 09 Aug 2026 | 08:22 pm |
+| 59 | [514A - Chewbaca and Number](./Codeforces/basic/514A%20-%20Chewbaca%20and%20Number) | [Codeforces](https://codeforces.com/problemset/problem/514/A) | basic | 09 Aug 2026 | 10:08 pm |

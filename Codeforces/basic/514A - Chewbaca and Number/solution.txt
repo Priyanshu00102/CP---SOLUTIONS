@@ -1,0 +1,28 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+
+void solve() {
+    string s; cin>>s;
+    string ans="";
+    for(int i=0; i<s.size(); ++i){
+        int d=s[i]-'0';
+        ans+=min(d,9-d)+'0';
+    }
+    if(ans[0]=='0'){
+        ans[0]='9';
+    }
+    cout<<ans<<"\n";
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t = 1;
+    // cin >> t;
+    while (t--) solve();
+
+    return 0;
+}
