@@ -1,0 +1,27 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+
+void solve() {
+    string s; cin>>s;
+    int cnt=0;
+    for(int i=0; i<s.size(); ++i){
+        if(s[i]=='4' || s[i]=='7'){
+            cnt++;
+        }
+    }
+    if(cnt==4||cnt==7)cout<<"YES\n";
+    else cout<<"NO\n";
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t = 1;
+    // cin >> t;
+    while (t--) solve();
+
+    return 0;
+}
