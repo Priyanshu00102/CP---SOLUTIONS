@@ -60,3 +60,4 @@
 | 58 | [A - Three Numbers on the Blackboard](./Codeforces/basic/A%20-%20Three%20Numbers%20on%20the%20Blackboard) | [Codeforces](https://codeforces.com/contest/2256/problem/A) | basic | 09 Aug 2026 | 08:22 pm |
 | 59 | [514A - Chewbaca and Number](./Codeforces/basic/514A%20-%20Chewbaca%20and%20Number) | [Codeforces](https://codeforces.com/problemset/problem/514/A) | basic | 09 Aug 2026 | 10:08 pm |
 | 60 | [1352A - Sum of Round Numbers](./Codeforces/basic/1352A%20-%20Sum%20of%20Round%20Numbers) | [Codeforces](https://codeforces.com/problemset/problem/1352/A) | basic | 10 Aug 2026 | 07:02 am |
+| 61 | [1139B - Chocolates](./Codeforces/basic/1139B%20-%20Chocolates) | [Codeforces](https://codeforces.com/problemset/problem/1139/B) | basic | 10 Aug 2026 | 07:03 am |
