@@ -61,3 +61,4 @@
 | 59 | [514A - Chewbaca and Number](./Codeforces/basic/514A%20-%20Chewbaca%20and%20Number) | [Codeforces](https://codeforces.com/problemset/problem/514/A) | basic | 09 Aug 2026 | 10:08 pm |
 | 60 | [1352A - Sum of Round Numbers](./Codeforces/basic/1352A%20-%20Sum%20of%20Round%20Numbers) | [Codeforces](https://codeforces.com/problemset/problem/1352/A) | basic | 10 Aug 2026 | 07:02 am |
 | 61 | [1139B - Chocolates](./Codeforces/basic/1139B%20-%20Chocolates) | [Codeforces](https://codeforces.com/problemset/problem/1139/B) | basic | 10 Aug 2026 | 07:03 am |
+| 62 | [507A - Amr and Music](./Codeforces/basic/507A%20-%20Amr%20and%20Music) | [Codeforces](https://codeforces.com/problemset/problem/507/A) | basic | 10 Aug 2026 | 07:28 am |
