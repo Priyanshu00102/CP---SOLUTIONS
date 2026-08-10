@@ -1,0 +1,32 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+
+void solve() {
+    string s; cin>>s;
+    vector<string>ans;
+    for(int i=0; i<s.size(); ++i){
+        if(s[i]!='0'){
+            string t(s.size(),'0');
+            t[i]=s[i];
+            ans.push_back(t);
+        }
+    }
+    cout<<ans.size()<<"\n";
+    for(string i:ans){
+        cout<<stoi(i)<<" ";
+    }
+    cout<<"\n";
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t = 1;
+    cin >> t;
+    while (t--) solve();
+
+    return 0;
+}
