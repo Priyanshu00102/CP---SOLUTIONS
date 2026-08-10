@@ -62,3 +62,4 @@
 | 60 | [1352A - Sum of Round Numbers](./Codeforces/basic/1352A%20-%20Sum%20of%20Round%20Numbers) | [Codeforces](https://codeforces.com/problemset/problem/1352/A) | basic | 10 Aug 2026 | 07:02 am |
 | 61 | [1139B - Chocolates](./Codeforces/basic/1139B%20-%20Chocolates) | [Codeforces](https://codeforces.com/problemset/problem/1139/B) | basic | 10 Aug 2026 | 07:03 am |
 | 62 | [507A - Amr and Music](./Codeforces/basic/507A%20-%20Amr%20and%20Music) | [Codeforces](https://codeforces.com/problemset/problem/507/A) | basic | 10 Aug 2026 | 07:28 am |
+| 63 | [1027A - Palindromic Twist](./Codeforces/basic/1027A%20-%20Palindromic%20Twist) | [Codeforces](https://codeforces.com/problemset/problem/1027/A) | basic | 10 Aug 2026 | 05:30 pm |
