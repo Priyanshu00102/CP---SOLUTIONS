@@ -1,14 +1,14 @@
 {
-  "totalSolved": 62,
+  "totalSolved": 63,
   "currentStreak": 2,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-10",
-  "todayCount": 4,
+  "todayCount": 5,
   "difficultyCounts": {
     "easy": 2,
     "medium": 0,
     "hard": 0,
-    "basic": 60
+    "basic": 61
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -72,7 +72,8 @@
     "Codeforces_1352A_-_Sum_of_Round_Numbers": true,
     "Codeforces_1139B_-_Chocolates": true,
     "Codeforces_507A_-_Amr_and_Music": true,
-    "Codeforces_1027A_-_Palindromic_Twist": true
+    "Codeforces_1027A_-_Palindromic_Twist": true,
+    "Codeforces_1244B_-_Rooms_and_Staircases": true
   },
   "activityHistory": {
     "2026-07-18": 22,
@@ -84,12 +85,13 @@
     "2026-07-30": 5,
     "2026-08-01": 5,
     "2026-08-09": 2,
-    "2026-08-10": 4
+    "2026-08-10": 5
   },
   "todayProblems": [
     "1352A - Sum of Round Numbers",
     "1139B - Chocolates",
     "507A - Amr and Music",
-    "1027A - Palindromic Twist"
+    "1027A - Palindromic Twist",
+    "1244B - Rooms and Staircases"
   ]
 }

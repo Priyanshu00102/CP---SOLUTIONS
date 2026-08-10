@@ -1,0 +1,41 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+
+void solve() {
+    int n; cin>>n;
+    string s; cin>>s;
+    int cnt=0; int ans=0;
+    for(int i=0; i<n; ++i){
+        cnt++;
+        if(s[i]=='1'){
+            ans=max(ans,(i+1)*2);
+            cnt++;
+        }
+    }
+    ans=max(cnt,ans);
+    reverse(s.begin(),s.end());
+    cnt=0; 
+    for(int i=0; i<n; ++i){
+        cnt++;
+        if(s[i]=='1'){
+            ans=max(ans,(i+1)*2);
+            cnt++;
+        }
+    }
+    ans=max(cnt,ans);
+    cout<<ans<<'\n';
+
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t = 1;
+    cin >> t;
+    while (t--) solve();
+
+    return 0;
+}
