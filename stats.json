@@ -1,14 +1,14 @@
 {
-  "totalSolved": 64,
+  "totalSolved": 65,
   "currentStreak": 2,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-10",
-  "todayCount": 6,
+  "todayCount": 7,
   "difficultyCounts": {
     "easy": 2,
     "medium": 0,
     "hard": 0,
-    "basic": 62
+    "basic": 63
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -74,7 +74,8 @@
     "Codeforces_507A_-_Amr_and_Music": true,
     "Codeforces_1027A_-_Palindromic_Twist": true,
     "Codeforces_1244B_-_Rooms_and_Staircases": true,
-    "Codeforces_151A_-_Soft_Drinking": true
+    "Codeforces_151A_-_Soft_Drinking": true,
+    "Codeforces_723A_-_The_New_Year_Meeting_Friends": true
   },
   "activityHistory": {
     "2026-07-18": 22,
@@ -86,7 +87,7 @@
     "2026-07-30": 5,
     "2026-08-01": 5,
     "2026-08-09": 2,
-    "2026-08-10": 6
+    "2026-08-10": 7
   },
   "todayProblems": [
     "1352A - Sum of Round Numbers",
@@ -94,6 +95,7 @@
     "507A - Amr and Music",
     "1027A - Palindromic Twist",
     "1244B - Rooms and Staircases",
-    "151A - Soft Drinking"
+    "151A - Soft Drinking",
+    "723A - The New Year Meeting Friends"
   ]
 }
