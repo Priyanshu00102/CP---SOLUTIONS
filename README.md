@@ -67,3 +67,4 @@
 | 65 | [151A - Soft Drinking](./Codeforces/basic/151A%20-%20Soft%20Drinking) | [Codeforces](https://codeforces.com/problemset/problem/151/A) | basic | 10 Aug 2026 | 06:35 pm |
 | 66 | [723A - The New Year Meeting Friends](./Codeforces/basic/723A%20-%20The%20New%20Year%20Meeting%20Friends) | [Codeforces](https://codeforces.com/problemset/problem/723/A) | basic | 10 Aug 2026 | 08:44 pm |
 | 67 | [110A - Nearly Lucky Number](./Codeforces/basic/110A%20-%20Nearly%20Lucky%20Number) | [Codeforces](https://codeforces.com/problemset/problem/110/A) | basic | 10 Aug 2026 | 08:44 pm |
+| 68 | [1097A - Gennady and a Card Game](./Codeforces/basic/1097A%20-%20Gennady%20and%20a%20Card%20Game) | [Codeforces](https://codeforces.com/problemset/problem/1097/A) | basic | 11 Aug 2026 | 03:34 pm |
