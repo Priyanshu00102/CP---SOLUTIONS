@@ -72,3 +72,4 @@
 | 70 | [1896A - Jagged Swaps](./Codeforces/basic/1896A%20-%20Jagged%20Swaps) | [Codeforces](https://codeforces.com/problemset/problem/1896/A) | basic | 18 Aug 2026 | 03:42 pm |
 | 71 | [1900A - Cover in Water](./Codeforces/basic/1900A%20-%20Cover%20in%20Water) | [Codeforces](https://codeforces.com/problemset/problem/1900/A) | basic | 18 Aug 2026 | 03:42 pm |
 | 72 | [1901A - Line Trip](./Codeforces/basic/1901A%20-%20Line%20Trip) | [Codeforces](https://codeforces.com/problemset/problem/1901/A) | basic | 18 Aug 2026 | 03:42 pm |
+| 73 | [2254A - Riptide](./Codeforces/basic/2254A%20-%20Riptide) | [Codeforces](https://codeforces.com/problemset/problem/2254/A) | basic | 18 Aug 2026 | 03:54 pm |
