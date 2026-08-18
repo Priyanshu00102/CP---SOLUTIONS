@@ -76,3 +76,4 @@
 | 74 | [2247B - Yet Another Constructive](./Codeforces/basic/2247B%20-%20Yet%20Another%20Constructive) | [Codeforces](https://codeforces.com/problemset/problem/2247/B) | basic | 18 Aug 2026 | 08:24 pm |
 | 75 | [2254B - Evanescent](./Codeforces/basic/2254B%20-%20Evanescent) | [Codeforces](https://codeforces.com/problemset/problem/2254/B) | basic | 18 Aug 2026 | 11:32 pm |
 | 76 | [2227A - Koshary](./Codeforces/basic/2227A%20-%20Koshary) | [Codeforces](https://codeforces.com/problemset/problem/2227/A) | basic | 18 Aug 2026 | 11:43 pm |
+| 77 | [2218A - The 67th Integer Problem](./Codeforces/basic/2218A%20-%20The%2067th%20Integer%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/2218/A) | basic | 18 Aug 2026 | 11:52 pm |

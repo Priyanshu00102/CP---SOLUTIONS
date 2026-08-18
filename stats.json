@@ -1,14 +1,14 @@
 {
-  "totalSolved": 75,
+  "totalSolved": 76,
   "currentStreak": 1,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-18",
-  "todayCount": 7,
+  "todayCount": 8,
   "difficultyCounts": {
     "easy": 2,
     "medium": 0,
     "hard": 0,
-    "basic": 73
+    "basic": 74
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -85,7 +85,8 @@
     "Codeforces_2254A_-_Riptide": true,
     "Codeforces_2247B_-_Yet_Another_Constructive": true,
     "Codeforces_2254B_-_Evanescent": true,
-    "Codeforces_2227A_-_Koshary": true
+    "Codeforces_2227A_-_Koshary": true,
+    "Codeforces_2218A_-_The_67th_Integer_Problem": true
   },
   "activityHistory": {
     "2026-07-18": 22,
@@ -100,7 +101,7 @@
     "2026-08-10": 8,
     "2026-08-11": 1,
     "2026-08-12": 1,
-    "2026-08-18": 7
+    "2026-08-18": 8
   },
   "todayProblems": [
     "1896A - Jagged Swaps",
@@ -109,6 +110,7 @@
     "2254A - Riptide",
     "2247B - Yet Another Constructive",
     "2254B - Evanescent",
-    "2227A - Koshary"
+    "2227A - Koshary",
+    "2218A - The 67th Integer Problem"
   ]
 }
