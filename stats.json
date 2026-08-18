@@ -1,14 +1,14 @@
 {
-  "totalSolved": 68,
-  "currentStreak": 4,
+  "totalSolved": 69,
+  "currentStreak": 1,
   "maxStreak": 5,
-  "lastSyncDate": "2026-08-12",
+  "lastSyncDate": "2026-08-18",
   "todayCount": 1,
   "difficultyCounts": {
     "easy": 2,
     "medium": 0,
     "hard": 0,
-    "basic": 66
+    "basic": 67
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -78,7 +78,8 @@
     "Codeforces_723A_-_The_New_Year_Meeting_Friends": true,
     "Codeforces_110A_-_Nearly_Lucky_Number": true,
     "Codeforces_1097A_-_Gennady_and_a_Card_Game": true,
-    "Codeforces_1903A_-_Halloumi_Boxes": true
+    "Codeforces_1903A_-_Halloumi_Boxes": true,
+    "Codeforces_1896A_-_Jagged_Swaps": true
   },
   "activityHistory": {
     "2026-07-18": 22,
@@ -92,9 +93,10 @@
     "2026-08-09": 2,
     "2026-08-10": 8,
     "2026-08-11": 1,
-    "2026-08-12": 1
+    "2026-08-12": 1,
+    "2026-08-18": 1
   },
   "todayProblems": [
-    "1903A - Halloumi Boxes"
+    "1896A - Jagged Swaps"
   ]
 }

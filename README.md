@@ -69,3 +69,4 @@
 | 67 | [110A - Nearly Lucky Number](./Codeforces/basic/110A%20-%20Nearly%20Lucky%20Number) | [Codeforces](https://codeforces.com/problemset/problem/110/A) | basic | 10 Aug 2026 | 08:44 pm |
 | 68 | [1097A - Gennady and a Card Game](./Codeforces/basic/1097A%20-%20Gennady%20and%20a%20Card%20Game) | [Codeforces](https://codeforces.com/problemset/problem/1097/A) | basic | 11 Aug 2026 | 03:34 pm |
 | 69 | [1903A - Halloumi Boxes](./Codeforces/basic/1903A%20-%20Halloumi%20Boxes) | [Codeforces](https://codeforces.com/problemset/problem/1903/A) | basic | 12 Aug 2026 | 09:08 pm |
+| 70 | [1896A - Jagged Swaps](./Codeforces/basic/1896A%20-%20Jagged%20Swaps) | [Codeforces](https://codeforces.com/problemset/problem/1896/A) | basic | 18 Aug 2026 | 03:42 pm |

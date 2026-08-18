@@ -1,0 +1,56 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+using ll = long long;
+using ld = long double;
+using pii = pair<int, int>;
+using pll = pair<ll, ll>;
+using vi = vector<int>;
+using vll = vector<ll>;
+
+#define fastio ios::sync_with_stdio(false); cin.tie(nullptr);
+#define pb push_back
+#define all(x) (x).begin(), (x).end()
+#define rall(x) (x).rbegin(), (x).rend()
+#define sz(x) (int)(x).size()
+#define F first
+#define S second
+
+const int INF = 1e9;
+const ll LINF = 1e18;
+const int MOD = 1e9 + 7;
+
+// ---------- Debug ----------
+#ifndef ONLINE_JUDGE
+#define debug(x) cerr << #x << " = " << x << '\n';
+#else
+#define debug(x)
+#endif
+
+// ---------- Solve ----------
+void solve() {
+    // Write your solution here
+    int n; cin>>n;
+    vector<int>v(n);
+    for(int &i:v){
+        cin>>i;
+    }
+    if(v[0]==1){
+        cout<<"YES\n";
+    }else{
+        cout<<"NO\n";
+    }
+}
+
+int main() {
+    fastio;
+
+    int t = 1;
+    cin >> t;           // Comment this line if there is only one test case
+
+    while (t--) {
+        solve();
+    }
+
+    return 0;
+}
