@@ -74,3 +74,4 @@
 | 72 | [1901A - Line Trip](./Codeforces/basic/1901A%20-%20Line%20Trip) | [Codeforces](https://codeforces.com/problemset/problem/1901/A) | basic | 18 Aug 2026 | 03:42 pm |
 | 73 | [2254A - Riptide](./Codeforces/basic/2254A%20-%20Riptide) | [Codeforces](https://codeforces.com/problemset/problem/2254/A) | basic | 18 Aug 2026 | 03:54 pm |
 | 74 | [2247B - Yet Another Constructive](./Codeforces/basic/2247B%20-%20Yet%20Another%20Constructive) | [Codeforces](https://codeforces.com/problemset/problem/2247/B) | basic | 18 Aug 2026 | 08:24 pm |
+| 75 | [2254B - Evanescent](./Codeforces/basic/2254B%20-%20Evanescent) | [Codeforces](https://codeforces.com/problemset/problem/2254/B) | basic | 18 Aug 2026 | 11:32 pm |

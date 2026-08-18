@@ -1,0 +1,53 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+
+void solve() {
+    int n;
+    cin >> n;
+
+    string s;
+    cin >> s;
+
+    // Original compressed length
+    int ans = 1;
+
+    for (int i = 1; i < n; i++) {
+        if (s[i] != s[i - 1])
+            ans++;
+    }
+
+    int best = 0;
+
+    // Try deleting each middle character
+    for (int i = 1; i < n - 1; i++) {
+
+        // s[i] is a separate block
+        if (s[i] != s[i - 1] && s[i] != s[i + 1]) {
+
+            // A B A -> A A -> A
+            if (s[i - 1] == s[i + 1])
+                best = max(best, 2);
+
+            // A B C -> A C
+            else
+                best = max(best, 1);
+        }
+    }
+
+    cout << ans - best << '\n';
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t;
+    cin >> t;
+
+    while (t--)
+        solve();
+
+    return 0;
+}
