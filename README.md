@@ -78,3 +78,4 @@
 | 76 | [2227A - Koshary](./Codeforces/basic/2227A%20-%20Koshary) | [Codeforces](https://codeforces.com/problemset/problem/2227/A) | basic | 18 Aug 2026 | 11:43 pm |
 | 77 | [2218A - The 67th Integer Problem](./Codeforces/basic/2218A%20-%20The%2067th%20Integer%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/2218/A) | basic | 18 Aug 2026 | 11:52 pm |
 | 78 | [Sum Multiples](./LeetCode/Easy/Sum%20Multiples) | [LeetCode](https://leetcode.com/problems/sum-multiples/) | Easy | 19 Aug 2026 | 10:52 pm |
+| 79 | [2211A - Antimedian Deletion](./Codeforces/basic/2211A%20-%20Antimedian%20Deletion) | [Codeforces](https://codeforces.com/problemset/problem/2211/A) | basic | 19 Aug 2026 | 11:22 pm |

@@ -1,14 +1,14 @@
 {
-  "totalSolved": 77,
+  "totalSolved": 78,
   "currentStreak": 2,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-19",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
     "medium": 0,
     "hard": 0,
-    "basic": 74
+    "basic": 75
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -87,7 +87,8 @@
     "Codeforces_2254B_-_Evanescent": true,
     "Codeforces_2227A_-_Koshary": true,
     "Codeforces_2218A_-_The_67th_Integer_Problem": true,
-    "LeetCode_Sum_Multiples": true
+    "LeetCode_Sum_Multiples": true,
+    "Codeforces_2211A_-_Antimedian_Deletion": true
   },
   "activityHistory": {
     "2026-07-18": 22,
@@ -103,9 +104,10 @@
     "2026-08-11": 1,
     "2026-08-12": 1,
     "2026-08-18": 8,
-    "2026-08-19": 1
+    "2026-08-19": 2
   },
   "todayProblems": [
-    "Sum Multiples"
+    "Sum Multiples",
+    "2211A - Antimedian Deletion"
   ]
 }
