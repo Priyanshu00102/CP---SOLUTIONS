@@ -80,3 +80,4 @@
 | 78 | [Sum Multiples](./LeetCode/Easy/Sum%20Multiples) | [LeetCode](https://leetcode.com/problems/sum-multiples/) | Easy | 19 Aug 2026 | 10:52 pm |
 | 79 | [2211A - Antimedian Deletion](./Codeforces/basic/2211A%20-%20Antimedian%20Deletion) | [Codeforces](https://codeforces.com/problemset/problem/2211/A) | basic | 19 Aug 2026 | 11:22 pm |
 | 80 | [282A - Bit](./Codeforces/basic/282A%20-%20Bit) | [Codeforces](https://codeforces.com/problemset/problem/282/A) | basic | 19 Aug 2026 | 11:22 pm |
+| 81 | [1890A - Doremys Paint 3](./Codeforces/basic/1890A%20-%20Doremys%20Paint%203) | [Codeforces](https://codeforces.com/problemset/problem/1890/A) | basic | 21 Aug 2026 | 12:29 pm |

@@ -1,0 +1,47 @@
+#include <bits/stdc++.h>
+using namespace std;
+
+#define ll long long
+
+void solve() {
+    int n; cin>>n;
+   
+    vector<int>v(n);
+    for(int &i:v){
+        cin>>i;
+    }
+    map<int,int>mp;
+    for(int i:v){
+        mp[i]++;
+    }
+    if(mp.size()==2){
+        auto it=mp.begin();
+        int cnt1=it->second;
+        it++;
+        int cnt2=it->second;
+        if(abs(cnt1-cnt2)<=1){
+            cout<<"Yes"<<'\n';
+           
+            }
+             else{
+                cout<<"No\n";
+        }
+    } 
+    else if(mp.size()==1) cout<<"Yes\n";
+    else{
+        cout<<"No\n";
+    }
+   
+    
+}
+
+int main() {
+    ios::sync_with_stdio(false);
+    cin.tie(nullptr);
+
+    int t = 1;
+    cin >> t;
+    while (t--) solve();
+
+    return 0;
+}

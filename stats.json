@@ -1,14 +1,14 @@
 {
-  "totalSolved": 79,
-  "currentStreak": 2,
+  "totalSolved": 80,
+  "currentStreak": 1,
   "maxStreak": 5,
-  "lastSyncDate": "2026-08-19",
-  "todayCount": 3,
+  "lastSyncDate": "2026-08-21",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
     "medium": 0,
     "hard": 0,
-    "basic": 76
+    "basic": 77
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -89,7 +89,8 @@
     "Codeforces_2218A_-_The_67th_Integer_Problem": true,
     "LeetCode_Sum_Multiples": true,
     "Codeforces_2211A_-_Antimedian_Deletion": true,
-    "Codeforces_282A_-_Bit": true
+    "Codeforces_282A_-_Bit": true,
+    "Codeforces_1890A_-_Doremys_Paint_3": true
   },
   "activityHistory": {
     "2026-07-18": 22,
@@ -105,11 +106,10 @@
     "2026-08-11": 1,
     "2026-08-12": 1,
     "2026-08-18": 8,
-    "2026-08-19": 3
+    "2026-08-19": 3,
+    "2026-08-21": 1
   },
   "todayProblems": [
-    "Sum Multiples",
-    "2211A - Antimedian Deletion",
-    "282A - Bit"
+    "1890A - Doremys Paint 3"
   ]
 }
