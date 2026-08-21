@@ -82,3 +82,4 @@
 | 80 | [282A - Bit](./Codeforces/basic/282A%20-%20Bit) | [Codeforces](https://codeforces.com/problemset/problem/282/A) | basic | 19 Aug 2026 | 11:22 pm |
 | 81 | [1890A - Doremys Paint 3](./Codeforces/basic/1890A%20-%20Doremys%20Paint%203) | [Codeforces](https://codeforces.com/problemset/problem/1890/A) | basic | 21 Aug 2026 | 12:29 pm |
 | 82 | [1878A - How Much Does Daytona Cost](./Codeforces/basic/1878A%20-%20How%20Much%20Does%20Daytona%20Cost) | [Codeforces](https://codeforces.com/problemset/problem/1878/A) | basic | 21 Aug 2026 | 01:06 pm |
+| 83 | [1877A - Goals of Victory](./Codeforces/basic/1877A%20-%20Goals%20of%20Victory) | [Codeforces](https://codeforces.com/problemset/problem/1877/A) | basic | 21 Aug 2026 | 01:28 pm |
