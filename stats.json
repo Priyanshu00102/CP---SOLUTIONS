@@ -1,14 +1,14 @@
 {
-  "totalSolved": 80,
+  "totalSolved": 81,
   "currentStreak": 1,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-21",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
     "medium": 0,
     "hard": 0,
-    "basic": 77
+    "basic": 78
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -90,7 +90,8 @@
     "LeetCode_Sum_Multiples": true,
     "Codeforces_2211A_-_Antimedian_Deletion": true,
     "Codeforces_282A_-_Bit": true,
-    "Codeforces_1890A_-_Doremys_Paint_3": true
+    "Codeforces_1890A_-_Doremys_Paint_3": true,
+    "Codeforces_1878A_-_How_Much_Does_Daytona_Cost": true
   },
   "activityHistory": {
     "2026-07-18": 22,
@@ -107,9 +108,10 @@
     "2026-08-12": 1,
     "2026-08-18": 8,
     "2026-08-19": 3,
-    "2026-08-21": 1
+    "2026-08-21": 2
   },
   "todayProblems": [
-    "1890A - Doremys Paint 3"
+    "1890A - Doremys Paint 3",
+    "1878A - How Much Does Daytona Cost"
   ]
 }
