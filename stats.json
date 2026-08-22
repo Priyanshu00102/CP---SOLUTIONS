@@ -1,14 +1,14 @@
 {
-  "totalSolved": 82,
-  "currentStreak": 1,
+  "totalSolved": 83,
+  "currentStreak": 2,
   "maxStreak": 5,
-  "lastSyncDate": "2026-08-21",
-  "todayCount": 3,
+  "lastSyncDate": "2026-08-22",
+  "todayCount": 1,
   "difficultyCounts": {
     "easy": 3,
     "medium": 0,
     "hard": 0,
-    "basic": 79
+    "basic": 80
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -92,7 +92,8 @@
     "Codeforces_282A_-_Bit": true,
     "Codeforces_1890A_-_Doremys_Paint_3": true,
     "Codeforces_1878A_-_How_Much_Does_Daytona_Cost": true,
-    "Codeforces_1877A_-_Goals_of_Victory": true
+    "Codeforces_1877A_-_Goals_of_Victory": true,
+    "Codeforces_2250B_-_String_Construction": true
   },
   "activityHistory": {
     "2026-07-18": 22,
@@ -109,11 +110,10 @@
     "2026-08-12": 1,
     "2026-08-18": 8,
     "2026-08-19": 3,
-    "2026-08-21": 3
+    "2026-08-21": 3,
+    "2026-08-22": 1
   },
   "todayProblems": [
-    "1890A - Doremys Paint 3",
-    "1878A - How Much Does Daytona Cost",
-    "1877A - Goals of Victory"
+    "2250B - String Construction"
   ]
 }
