@@ -1,14 +1,14 @@
 {
-  "totalSolved": 84,
+  "totalSolved": 85,
   "currentStreak": 1,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-26",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
     "medium": 0,
     "hard": 0,
-    "basic": 81
+    "basic": 82
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -94,7 +94,8 @@
     "Codeforces_1878A_-_How_Much_Does_Daytona_Cost": true,
     "Codeforces_1877A_-_Goals_of_Victory": true,
     "Codeforces_2250B_-_String_Construction": true,
-    "Codeforces_1370A_-_Maximum_GCD": true
+    "Codeforces_1370A_-_Maximum_GCD": true,
+    "Codeforces_1325A_-_EhAb_AnD_gCd": true
   },
   "activityHistory": {
     "2026-07-18": 22,
@@ -113,9 +114,10 @@
     "2026-08-19": 3,
     "2026-08-21": 3,
     "2026-08-22": 1,
-    "2026-08-26": 1
+    "2026-08-26": 2
   },
   "todayProblems": [
-    "1370A - Maximum GCD"
+    "1370A - Maximum GCD",
+    "1325A - EhAb AnD gCd"
   ]
 }

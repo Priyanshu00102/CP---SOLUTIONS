@@ -85,3 +85,4 @@
 | 83 | [1877A - Goals of Victory](./Codeforces/basic/1877A%20-%20Goals%20of%20Victory) | [Codeforces](https://codeforces.com/problemset/problem/1877/A) | basic | 21 Aug 2026 | 01:28 pm |
 | 84 | [2250B - String Construction](./Codeforces/basic/2250B%20-%20String%20Construction) | [Codeforces](https://codeforces.com/problemset/problem/2250/B) | basic | 22 Aug 2026 | 10:39 pm |
 | 85 | [1370A - Maximum GCD](./Codeforces/basic/1370A%20-%20Maximum%20GCD) | [Codeforces](https://codeforces.com/problemset/problem/1370/A) | basic | 26 Aug 2026 | 02:14 am |
+| 86 | [1325A - EhAb AnD gCd](./Codeforces/basic/1325A%20-%20EhAb%20AnD%20gCd) | [Codeforces](https://codeforces.com/problemset/problem/1325/A) | basic | 26 Aug 2026 | 02:32 am |
