@@ -87,3 +87,4 @@
 | 85 | [1370A - Maximum GCD](./Codeforces/basic/1370A%20-%20Maximum%20GCD) | [Codeforces](https://codeforces.com/problemset/problem/1370/A) | basic | 26 Aug 2026 | 02:14 am |
 | 86 | [1325A - EhAb AnD gCd](./Codeforces/basic/1325A%20-%20EhAb%20AnD%20gCd) | [Codeforces](https://codeforces.com/problemset/problem/1325/A) | basic | 26 Aug 2026 | 02:32 am |
 | 87 | [1389A - LCM Problem](./Codeforces/basic/1389A%20-%20LCM%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/1389/A) | basic | 26 Aug 2026 | 12:41 pm |
+| 88 | [267A - Subtractions](./Codeforces/basic/267A%20-%20Subtractions) | [Codeforces](https://codeforces.com/problemset/problem/267/A) | basic | 26 Aug 2026 | 01:46 pm |
