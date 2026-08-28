@@ -88,3 +88,4 @@
 | 86 | [1325A - EhAb AnD gCd](./Codeforces/basic/1325A%20-%20EhAb%20AnD%20gCd) | [Codeforces](https://codeforces.com/problemset/problem/1325/A) | basic | 26 Aug 2026 | 02:32 am |
 | 87 | [1389A - LCM Problem](./Codeforces/basic/1389A%20-%20LCM%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/1389/A) | basic | 26 Aug 2026 | 12:41 pm |
 | 88 | [267A - Subtractions](./Codeforces/basic/267A%20-%20Subtractions) | [Codeforces](https://codeforces.com/problemset/problem/267/A) | basic | 26 Aug 2026 | 01:46 pm |
+| 89 | [1366A - Shovels and Swords](./Codeforces/basic/1366A%20-%20Shovels%20and%20Swords) | [Codeforces](https://codeforces.com/problemset/problem/1366/A) | basic | 29 Aug 2026 | 01:16 am |
