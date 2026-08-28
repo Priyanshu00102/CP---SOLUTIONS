@@ -1,14 +1,14 @@
 {
-  "totalSolved": 88,
+  "totalSolved": 89,
   "currentStreak": 1,
   "maxStreak": 5,
   "lastSyncDate": "2026-08-29",
-  "todayCount": 1,
+  "todayCount": 2,
   "difficultyCounts": {
     "easy": 3,
     "medium": 0,
     "hard": 0,
-    "basic": 85
+    "basic": 86
   },
   "syncedProblems": {
     "LeetCode_Find_Greatest_Common_Divisor_of_Array": true,
@@ -98,7 +98,8 @@
     "Codeforces_1325A_-_EhAb_AnD_gCd": true,
     "Codeforces_1389A_-_LCM_Problem": true,
     "Codeforces_267A_-_Subtractions": true,
-    "Codeforces_1366A_-_Shovels_and_Swords": true
+    "Codeforces_1366A_-_Shovels_and_Swords": true,
+    "Codeforces_1617B_-_GCD_Problem": true
   },
   "activityHistory": {
     "2026-07-18": 22,
@@ -118,9 +119,10 @@
     "2026-08-21": 3,
     "2026-08-22": 1,
     "2026-08-26": 4,
-    "2026-08-29": 1
+    "2026-08-29": 2
   },
   "todayProblems": [
-    "1366A - Shovels and Swords"
+    "1366A - Shovels and Swords",
+    "1617B - GCD Problem"
   ]
 }
