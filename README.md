@@ -91,3 +91,4 @@
 | 89 | [1366A - Shovels and Swords](./Codeforces/basic/1366A%20-%20Shovels%20and%20Swords) | [Codeforces](https://codeforces.com/problemset/problem/1366/A) | basic | 29 Aug 2026 | 01:16 am |
 | 90 | [1617B - GCD Problem](./Codeforces/basic/1617B%20-%20GCD%20Problem) | [Codeforces](https://codeforces.com/problemset/problem/1617/B) | basic | 29 Aug 2026 | 01:16 am |
 | 91 | [2233B - Different Distances](./Codeforces/basic/2233B%20-%20Different%20Distances) | [Codeforces](https://codeforces.com/problemset/problem/2233/B) | basic | 29 Aug 2026 | 01:26 am |
+| 92 | [2226B - Everything Everywhere](./Codeforces/basic/2226B%20-%20Everything%20Everywhere) | [Codeforces](https://codeforces.com/problemset/problem/2226/B) | basic | 04 Sept 2026 | 09:28 pm |
